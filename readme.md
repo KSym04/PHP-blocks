@@ -1,5 +1,5 @@
 <h1>PHP-blocks</h1> 
-<p>experimental PHP blockchain based on proof-of-work</p>
+<p>This is an experimental PHP blockchain based on proof-of-work, just for fun.</p>
 
 <h3>Timeline</h3>
 <p>
@@ -19,4 +19,9 @@
 <h3>License</h3>
 <p>
 php-blocks is released under the MIT Licence. See the bundled LICENSE file for details.
+</p>
+
+<h3>Author</h3>
+<p>
+Ken Villanueva (@ksym04)
 </p>
