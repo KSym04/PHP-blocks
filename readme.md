@@ -11,7 +11,7 @@
 🔲 wallet addresses<br />
 🔲 smart contracts<br />
 🔲 mining blocks<br />
-🔲 mode models<br />
+🔲 node models<br />
 🔲 mining nodes<br />
 🔲 resolve conflicts
 </p>
