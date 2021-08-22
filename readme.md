@@ -18,15 +18,5 @@
 
 <h3>License</h3>
 <p>
-🔲 blockchain models<br /> 
-🔲 generating keys for blocks<br />
-🔲 initializing blockchain<br />
-🔲 proof-of-work<br />
-🔲 adding blocks to the blockchain<br />
-🔲 wallet addresses<br />
-🔲 smart contracts<br />
-🔲 mining blocks<br />
-🔲 node models<br />
-🔲 mining nodes<br />
-🔲 resolve conflicts
+php-blocks is released under the MIT Licence. See the bundled LICENSE file for details.
 </p>
