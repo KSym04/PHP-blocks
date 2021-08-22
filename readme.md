@@ -1,2 +1,2 @@
 <h1>PHP-blocks</h1> 
-experimental PHP blockchain proof-of-work concept.
+<p>experimental PHP blockchain proof-of-work concept.</p>
