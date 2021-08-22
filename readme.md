@@ -24,4 +24,5 @@ php-blocks is released under the MIT Licence. See the bundled LICENSE file for d
 <h3>Author</h3>
 <p>
 Ken Villanueva (@ksym04)
+DopeThemes (@wearedopethemes)
 </p>
