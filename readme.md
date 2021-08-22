@@ -3,7 +3,7 @@
 
 <h3>Timeline</h3>
 <p>
-🔲 blockchain models
+🔲 blockchain models  
 🔲 generating keys for blocks
 🔲 initializing blockchain
 🔲 proof-of-work
